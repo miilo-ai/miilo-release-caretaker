@@ -7,6 +7,13 @@
 
 Your release shipped. Can people actually use it?
 
+![Condensed recorded journey: Gemma reads sample evidence, Mastra saves the review, and a recheck clears attention](docs/media/caretaker-journey.gif)
+
+[Watch the full silent recording](docs/media/caretaker-journey.mp4).
+The 12-second GIF condenses three excerpts from the same 75-second recording;
+captions describe actual output. Release checks use sample facts, with real Mastra
+execution, live Gemma inference and the optional local Miilo integration.
+
 Release Caretaker checks release evidence through a Mastra workflow. The current
 local prototype runs labeled sample scenarios, parallel checks, bounded retries,
 SQLite checkpoints and revision-bound human review. An optional
