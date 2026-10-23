@@ -1,0 +1,6 @@
+{
+  "name": "caretaker-miilo-local-integration",
+  "private": true,
+  "type": "module",
+  "dependencies": { "@miilo-ai/adapter-sdk": "file:../../.local/adapter-sdk.tgz" }
+}
